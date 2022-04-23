@@ -44,8 +44,8 @@ h1  {
 }
 
 footer img {
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
 }
 
 footer {
@@ -66,8 +66,7 @@ footer p {
     padding: 0px 50px;
     border-bottom: 1px solid #5BBE42;
     margin-top: 10px;
-    margin-bottom: 16px;
-}
+   }
 
 nav a:hover {
     color: #5BBE42  
